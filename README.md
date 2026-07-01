@@ -1,7 +1,7 @@
 # Trigger
 
 ## Overview
-This project aims to create a clean, efficient shell. The current README was written quickly, but the code itself will be written without AI assistance - exception being repetitive tasks like folder organization and testing. I plan to build the shell based on solid fundamentals and personal expertise.
+This project will use AI
 
 ## Building
 
